@@ -1,4 +1,4 @@
-package construction.singleton;
+package creation.singleton;
 
 /**
  * Classe de test pour la classe registre

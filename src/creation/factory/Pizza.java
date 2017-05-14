@@ -1,4 +1,4 @@
-package construction.factory;
+package creation.factory;
 
 /**
  * une classe abstraite pour representer notre pizza

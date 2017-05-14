@@ -1,4 +1,4 @@
-package construction.factory;
+package creation.factory;
 
 /**
  * Cette classe va permettre de creer d'autres construires d'autres objets

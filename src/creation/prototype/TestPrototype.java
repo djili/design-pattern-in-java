@@ -1,4 +1,4 @@
-package construction.prototype;
+package creation.prototype;
 
 /**
  * @author Abdou Khadre DIOP

@@ -1,4 +1,4 @@
-package construction.factory;
+package creation.factory;
 
 /**
  * une pizza senegalaise

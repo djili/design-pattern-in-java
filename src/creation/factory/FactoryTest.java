@@ -1,4 +1,4 @@
-package construction.factory;
+package creation.factory;
 
 /**
  * classe de test pour notre patron de conception Fabric

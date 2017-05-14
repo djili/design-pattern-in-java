@@ -1,4 +1,4 @@
-package construction.singleton;
+package creation.singleton;
 
 /**
  * Cette classe implemente un registre avec le patron de conception singleton
