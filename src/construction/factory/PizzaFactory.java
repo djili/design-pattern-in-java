@@ -1,4 +1,4 @@
-package construction.fabric;
+package construction.factory;
 
 /**
  * Cette classe va permettre de creer d'autres construires d'autres objets
@@ -6,7 +6,7 @@ package construction.fabric;
  * @author Abdou Khadre DIOP
  * @since 14/05/2016
  */
-public class PizzaFabric {
+public class PizzaFactory {
 
 
     /**

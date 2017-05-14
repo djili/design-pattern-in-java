@@ -1,17 +1,17 @@
-package construction.fabric;
+package construction.factory;
 
 /**
  * classe de test pour notre patron de conception Fabric
  * @author Abdou Khadre DIOP
  * @since 14/05/2016
  */
-public class FabricTest {
+public class FactoryTest {
 
     public static void main(String args[]){
-        PizzaFabric fabrique =  new PizzaFabric();
+        PizzaFactory factory =  new PizzaFactory();
         try {
-            Pizza italienne = fabrique.createPizza("italienne");
-            Pizza senegalaise =  fabrique.createPizza("senegalaise");
+            Pizza italienne = factory.createPizza("italienne");
+            Pizza senegalaise =  factory.createPizza("senegalaise");
             senegalaise.leGout();
             italienne.leGout();
         } catch(Exception e) {
