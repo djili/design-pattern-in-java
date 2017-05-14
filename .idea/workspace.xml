@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9003b2cb-214c-494c-b99d-a849cc4c98e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/BuilderTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/Foxconn.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/HuaweiiP9Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/LgG4Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/Phone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/builder/PhoneBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/FactoryTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/Pizza.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaItalienne.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaSenegalaise.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Bmw.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Clone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Mercedes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/TestPrototype.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Usine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/TestAccesRegistre.class" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/construction/singleton/TestAccesRegistre.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/design pattern/construction/singleton/Registre.class" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/Registre.class" />
     </list>
     <ignored path="design pattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -947,7 +928,7 @@
       <updated>1494544369620</updated>
       <workItem from="1494544388890" duration="5545000" />
       <workItem from="1494727912387" duration="6335000" />
-      <workItem from="1494757746698" duration="11791000" />
+      <workItem from="1494757746698" duration="12074000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout du pattern prototype">
       <created>1494763213942</created>
@@ -970,11 +951,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494771188742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout du pattern builder">
+      <created>1494771425682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494771425682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23671000" />
+    <option name="totallyTimeSpent" value="23954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
