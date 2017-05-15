@@ -2,9 +2,36 @@
 
 In this repository i will to implement all gang of four design pattern in java
 
+# Packages
+
+Description of all packages in src file
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th align="center">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>construction</td>
+            <td align="right"> creational design patterns are design patterns that deal with object creation mechanisms</td>
+        </tr>
+        <tr>
+            <td>Structural</td>
+            <td align="right">Structural Design Patterns are Design Patterns that ease the design by identifying a simple way to realize relationships between entities</td>
+        </tr>
+        <tr>
+            <td>Behavioral</td>
+            <td align="right">behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns</td>
+        </tr>
+    </tbody>
+</table>
+
 # All design patterns implemented
 
-## Contruction design pattern
+## creation design pattern
 
 <table>
     <thead>
