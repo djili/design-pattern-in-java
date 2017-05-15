@@ -15,8 +15,8 @@ Description of all packages in src file
     </thead>
     <tbody>
         <tr>
-            <td>construction</td>
-            <td align="right"> creational design patterns are design patterns that deal with object creation mechanisms</td>
+            <td>Construction</td>
+            <td align="right">Creational design patterns are design patterns that deal with object creation mechanisms</td>
         </tr>
         <tr>
             <td>Structural</td>
@@ -24,7 +24,7 @@ Description of all packages in src file
         </tr>
         <tr>
             <td>Behavioral</td>
-            <td align="right">behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns</td>
+            <td align="right">Behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns</td>
         </tr>
     </tbody>
 </table>
