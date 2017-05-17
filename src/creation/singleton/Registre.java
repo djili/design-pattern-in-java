@@ -42,9 +42,9 @@ public class Registre {
         if (Registre.instance == null) {
             // empechons toute instanciation multiple meme via d'autres threads grace a synchronized
             synchronized(Registre.class) {
-                if (Registre.instance == null) {
+
                     Registre.instance = new Registre();
-                }
+
             }
         }
         return Registre.instance;

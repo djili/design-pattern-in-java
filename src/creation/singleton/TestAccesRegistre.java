@@ -26,5 +26,7 @@ public class TestAccesRegistre {
         reg2.afficheInfos();
 
         // nous avons le meme hashcode il sagit de la meme instance de Registre
+
+
     }
 }
