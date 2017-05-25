@@ -57,9 +57,5 @@ Description of all packages in src file
             <td>Prototype</td>
             <td align="right">A fully initialized instance to be copied or cloned</td>
         </tr>
-        <tr>
-            <td>Abstract Factory</td>
-            <td align="right">Creates an instance of several families of classes</td>
-        </tr>
     </tbody>
 </table>
