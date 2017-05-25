@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9003b2cb-214c-494c-b99d-a849cc4c98e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/BridgeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/Chemin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/RoulerAMoto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/Virer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/VirerCircuit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/structure/bridge/VirerEnVille.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaFactory.class" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/TestAccesRegistre.class" afterPath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/TestAccesRegistre.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/BuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/Foxconn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/HuaweiiP9Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/LgG4Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/Phone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/builder/PhoneBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/FactoryTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/Pizza.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaItalienne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/factory/PizzaSenegalaise.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Bmw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Clone.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Mercedes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/TestPrototype.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/prototype/Usine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/Registre.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/design pattern/creation/singleton/TestAccesRegistre.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/creation/factory/PizzaFactory.java" afterPath="$PROJECT_DIR$/src/creation/factory/PizzaFactory.java" />
     </list>
     <ignored path="design pattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,8 +82,8 @@
       <file leaf-file-name="BridgeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/structure/bridge/BridgeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="525">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -849,7 +858,7 @@
       <workItem from="1494981362741" duration="711000" />
       <workItem from="1495112732179" duration="6964000" />
       <workItem from="1495387221221" duration="55000" />
-      <workItem from="1495740137255" duration="7423000" />
+      <workItem from="1495740137255" duration="7980000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout du pattern prototype">
       <created>1494763213942</created>
@@ -893,11 +902,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494981469854</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding pattern bridge">
+      <created>1495747880870</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1495747880870</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48507000" />
+    <option name="totallyTimeSpent" value="49064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
@@ -912,10 +928,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49166667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16979769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16979769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -946,7 +962,8 @@
     <MESSAGE value="change fabrique into factory&#10;" />
     <MESSAGE value="ajout du pattern builder" />
     <MESSAGE value="registre modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="registre modified" />
+    <MESSAGE value="adding pattern bridge" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding pattern bridge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1585,8 +1602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/structure/bridge/BridgeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="525">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
