@@ -59,3 +59,45 @@ Description of all packages in src file
         </tr>
     </tbody>
 </table>
+
+
+## structure design pattern
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th align="center">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adapter</td>
+            <td align="right">Convert the interface of a class into another interface clients expect. / Adapter lets classes work                       together, that could not otherwise because of incompatible interfaces.</td>
+        </tr>
+        <tr>
+            <td>Bridge</td>
+            <td align="right">Compose objects into tree structures to represent part-whole hierarchies. / Composite lets clients treat                  individual objects and compositions of objects uniformly.</td>
+        </tr>
+        <tr>
+            <td>Composite</td>
+            <td align="right">Compose objects into tree structures to represent part-whole hierarchies. / Composite lets clients treat individual objects and compositions of objects uniformly.</td>
+        </tr>
+        <tr>
+            <td>Decorator</td>
+            <td align="right">add additional responsibilities dynamically to an object.</td>
+        </tr>
+        <tr>
+            <td>Flyweight</td>
+            <td align="right">use sharing to support a large number of objects that have part of their internal state in common where the other part of state can vary.</td>
+        </tr>
+        <tr>
+            <td>Memento</td>
+            <td align="right">capture the internal state of an object without violating encapsulation and thus providing a mean for                  restoring the object into initial state when needed.</td>
+        </tr>
+        <tr>
+            <td>Proxy</td>
+            <td align="right">provide a “Placeholder” for an object to control references to it.</td>
+        </tr>
+    </tbody>
+</table>
