@@ -16,9 +16,9 @@ public class PizzaFactory {
      * @throws Exception
      */
     public Pizza createPizza(String type) throws Exception {
-        if (type.equals("italienne")) {
+        if (type.equals("poivron")) {
             return new PizzaItalienne();
-        }else if (type.equals("senegalaise")) {
+        }else if (type.equals("fromage")) {
             return new PizzaSenegalaise();
         }else{
             throw new Exception("Impossible de creer cette pizza");
